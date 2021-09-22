@@ -1,0 +1,1 @@
+- 👋 Hi, I’m Gabor Ozorai looking for collaboration in software testing, test automation and multimedia. I study at Codecool Hungary. Check out my past projects!
